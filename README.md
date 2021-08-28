@@ -53,3 +53,6 @@ To execute a basic test to the PackageController execute the following command
 ```
 $ vendor/bin/phpunit
 ```
+
+# Following steps!
+In the next days ill be adding some vue.js interaction in the frontend of the application. 
