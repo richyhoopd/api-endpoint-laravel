@@ -47,3 +47,9 @@ DELETE  /api/paquetes/:id
 
 POST    /api/logout
 ```
+
+# Tests
+To execute a basic test to the PackageController execute the following command
+```
+$ vendor/bin/phpunit
+```
